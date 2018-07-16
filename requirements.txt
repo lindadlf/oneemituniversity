@@ -4,3 +4,4 @@ sklearn
 matplotlib==2.2.2 
 nltk
 scipy
+xlrd 
